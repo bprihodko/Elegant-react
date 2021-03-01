@@ -1,0 +1,42 @@
+@import "../../scss/variables.scss";
+
+
+.header {
+    padding: 20px 0;
+    background-image: url(../../images/slider.png);
+    background-size: cover;
+    height: 600px;
+
+    
+.menu {
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    margin-top: 27px;
+    width: 100%;
+    cursor: pointer;
+     li {
+         margin-right: 30px;
+         &:last-child {
+         margin-right: 0px;
+         }
+      a {
+       text-decoration: none;
+       @include  text14;
+       color: white;
+      .span-orange {
+        color:$grey;    
+      }
+       &:hover {
+           color: rgb(62, 17, 226);
+           background-color: white;
+           border-radius: 5px; 
+           padding: 5px 5px;
+            .span-orange {
+              color: black;    
+           }
+       }
+     }
+}
+}
+
+}

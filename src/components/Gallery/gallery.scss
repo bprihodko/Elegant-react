@@ -1,0 +1,11 @@
+
+.works-box {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 5px;
+}
+
+.works-image img {
+    width: 315px;
+    height: 300px;
+}

@@ -1,0 +1,54 @@
+$yellow:#d4af37;
+$grey:#4d5c66;
+$lgrey:#56646d;
+$dark:#41505b;
+
+$sans: 'Open Sans', sans-serif;
+
+@mixin gridCenter ($value:center) {
+    display: grid;
+    justify-content: ($value);
+  
+}
+
+@mixin text13 {
+    font-family:$sans;
+    font-weight: bold;
+    font-size: 13px; 
+    color: $yellow;
+}
+@mixin text13-d {
+    font-family:$sans;
+    font-size: 13px; 
+    color: $dark;
+  
+}
+
+@mixin text14 {
+    font-family:$sans;
+    font-size: 14px; 
+    color: $dark;
+}
+@mixin text18 {
+    font-family:$sans ;
+    font-size: 18px; 
+    color: $dark;
+    text-align: center;
+}
+@mixin text44 {
+    font-family:$sans ;
+    font-weight: bold;
+    font-size: 44px; 
+    color: $grey;
+    text-align: center;
+}
+@mixin text80 {
+    font-family:$sans;
+    font-size: 80px; 
+    color: white;
+}
+@mixin text21 {
+    font-family:$sans;
+    font-size: 21px; 
+   color: $lgrey;
+}
