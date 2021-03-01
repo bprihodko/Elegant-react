@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d44ae52c.chunk.css",
-    "main.js": "/static/js/main.d0dda532.chunk.js",
-    "main.js.map": "/static/js/main.d0dda532.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9df67548.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9df67548.js.map",
-    "static/js/2.3e4b831f.chunk.js": "/static/js/2.3e4b831f.chunk.js",
-    "static/js/2.3e4b831f.chunk.js.map": "/static/js/2.3e4b831f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d44ae52c.chunk.css.map": "/static/css/main.d44ae52c.chunk.css.map",
-    "static/js/2.3e4b831f.chunk.js.LICENSE.txt": "/static/js/2.3e4b831f.chunk.js.LICENSE.txt",
-    "static/media/header.scss": "/static/media/slider.bb181c71.png"
+    "main.css": "/Elegant-react/static/css/main.e9bc9183.chunk.css",
+    "main.js": "/Elegant-react/static/js/main.d0dda532.chunk.js",
+    "main.js.map": "/Elegant-react/static/js/main.d0dda532.chunk.js.map",
+    "runtime-main.js": "/Elegant-react/static/js/runtime-main.18799f41.js",
+    "runtime-main.js.map": "/Elegant-react/static/js/runtime-main.18799f41.js.map",
+    "static/js/2.3e4b831f.chunk.js": "/Elegant-react/static/js/2.3e4b831f.chunk.js",
+    "static/js/2.3e4b831f.chunk.js.map": "/Elegant-react/static/js/2.3e4b831f.chunk.js.map",
+    "index.html": "/Elegant-react/index.html",
+    "static/css/main.e9bc9183.chunk.css.map": "/Elegant-react/static/css/main.e9bc9183.chunk.css.map",
+    "static/js/2.3e4b831f.chunk.js.LICENSE.txt": "/Elegant-react/static/js/2.3e4b831f.chunk.js.LICENSE.txt",
+    "static/media/header.scss": "/Elegant-react/static/media/slider.bb181c71.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9df67548.js",
+    "static/js/runtime-main.18799f41.js",
     "static/js/2.3e4b831f.chunk.js",
-    "static/css/main.d44ae52c.chunk.css",
+    "static/css/main.e9bc9183.chunk.css",
     "static/js/main.d0dda532.chunk.js"
   ]
 }
