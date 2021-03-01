@@ -1,6 +1,6 @@
 import "../../scss/base.scss" 
 
-function Footer() {
+const Footer = () => {
     return (
         <footer className="footer">
             <div className="container-flued">

@@ -13,7 +13,7 @@ const images = [
 
 ];
 
-export default function Gallery (props) {
+const Gallery = (props) => {
     return (
     <div className="container-flued">
         <div className="description-item">
@@ -33,3 +33,5 @@ export default function Gallery (props) {
         </div>
     </div>)
 }
+
+export default  Gallery
